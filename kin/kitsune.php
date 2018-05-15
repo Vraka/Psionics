@@ -1,17 +1,17 @@
+<?php include "../css/stylesheet.php" ?>
 <head>
 <title>Codex: Kitsune/Nogitsune</title>
-<link rel="stylesheet" href="../css/kin.css">
 </head>
 
 <body>
-<h1>Kitsune</h1>
+<h1>Kitsune/Nogitsune</h1>
 <div class="center box">
 <h2>Overview</h2>
 <p>Kitsune are kami/yokai entities that are known to be the children of Inari. Kitsune can have up to 9 tails, all of which have a unique ability. Most kitsune are tribal beings but others reside in clans as well. Kitsune prefer to stay in their pocket realms and are not too oftenly seen in the etheric. Inari from meeting her etherically resides in her pocket realm, although she also has a village etheric side.</p>
 <img src="../img/kitsune.png" style="width:30%;height:30%;">
 <br>
 <h2>Nogitsune</h2>
-<p>The nogitsune are very similar entities to kitsune, however they are fox kami/yokai entities that choose not to follow Inari. Usually having darker fur, the nogitsune are generally more anti-social. The only large community currently is the nogitsune kingdom in Cyradin.</p>
+<p>The nogitsune are very similar entities to kitsune, however they are fox kami/yokai entities that choose not to follow Inari. Usually having darker fur, the nogitsune are generally more anti-social. The only large community currently is the nogitsune kingdom in Cyradin. In addition to the affinities that kitsune have, certain nogitsune created by Nunet have the Void affinity. There are currently only one such nogitsune incarnated.</p>
 
 <h2>Appearance</h2>
 <p>As polymorphic beings, the kitsune can take on virtually any form they choose. However, their base form is that of a multi-tailed fox, with lighter fur colors. They are ususally thin and lean, as kitsune are primarily speed fighters as opposed to brute strength. In fact, their tails are the strongest limbs and can be used to attack, move, or pick up objects. Another thing I would like to add is that the color of the kitsune does not represent power, but age. A kitsune's fur color does not usually change until they obtain their ninth tail. The colors that are usually prominent in a nine-tailed kitsune are white, yellow, light gray, and black (though black is a color that is usually found in nogitsune</a>).</p>
@@ -29,6 +29,8 @@ The more tails a kitsune has the more energy it will have which means that the e
 <h4>Possession</h4> 
 <h4>Dreamwalking</h4> 
 These tails can grow overtime but usually a kitsune has to work with their own energy and gain more experience to establish a new tail. However, tails can be granted by kitsune deities or those who were in the past. While the first tail a kitsune is born with is usually Shapeshifting, the order in which the subsequent tails are earned depends on which ability the kitsune masters next.
+<h4>The Tenth Tail</h4>
+<p>Apart from Inari herself, only one kitsune and one nogitsune have more than 9 tails. <a href="../deity/thelady.php">The Lady of the Kitsune</a> and <a href="../deity/thelord.php">The Lord of the Nogitsune</a> are two deities who were granted a tenth tail by their respective creators, and tasks to be the protectors of their kin. Along with increasing their power, and granting them their ascended form as deities, these tails allow them to change beings into kitsune or nogitsune.</p>
 
 <!--<h2>Abilities</h2>
 <p>Kitsune can have anywhere between one and nine tails, each tail representing a level of mastery over one of their nine abilities: Shapeshifting, Fox Fire, Pocket Realm (PR) Creation, Illusion, Main Affinity Control, 4 Basic Element Control, Seduction, Possession, and Dreamwalking. While the first tail a kitsune is born with is usually Shapeshifting, the order in which the subsequent tails are earned depends on which ability the kitsune masters next.</p>
@@ -75,5 +77,9 @@ The 14 clans are the original clans that used to embody the race as a whole. The
 
 <h2>Related Entries</h2>
 Inari, <a href="../deity/thelady.php">The Lady</a>, Nunet
+</div>
+
+<div class="glossary-box">
+    <a href = "../index.php">Back to Home</a>
 </div>
 </body>
